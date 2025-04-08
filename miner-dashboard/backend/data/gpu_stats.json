@@ -1,0 +1,11 @@
+{
+  "hashrate": 8.4,
+  "acceptedShares": 42295,
+  "rejectedShares": 2223,
+  "powerUsage": 320,
+  "uptime": "12h 34m",
+  "temperature": 68.7794225982616,
+  "efficiency": 0.83,
+  "lastShareFound": "2023-04-04T16:02:34Z",
+  "beadsMined": 12
+}

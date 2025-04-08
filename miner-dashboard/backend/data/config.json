@@ -1,0 +1,18 @@
+{
+  "updateInterval": 5000,
+  "maxNodes": 100,
+  "defaultLayout": "force",
+  "cohortColors": [
+    "#FF5733",
+    "#33FF57",
+    "#3357FF",
+    "#F033FF",
+    "#FF33A1",
+    "#33FFF0",
+    "#FFF033",
+    "#FF7D33"
+  ],
+  "darkMode": true,
+  "showLabels": true,
+  "animationSpeed": "medium"
+}

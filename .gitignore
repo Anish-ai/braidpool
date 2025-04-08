@@ -19,6 +19,7 @@ proposal/proposal.blg
 simulations/logs/*
 simulations/*.toolbox
 notes/
+node/bitcoin-26.0
 venv
 *~
 .aider*
